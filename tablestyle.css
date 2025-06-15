@@ -1,0 +1,33 @@
+.num-table{
+    color:green;
+}
+th
+,td{
+    text-align: center;
+    padding: 10px; 
+    
+    border:1px solid  red;
+}
+table{
+    color:black;
+    background-color: rgb(243, 151, 243);
+  
+    font-size: medium;
+    font-family: cursive;
+    border-collapse: collapse;
+ 
+    padding: 10px;
+}
+.foot{
+    background-color:rgb(160, 238, 238);
+}
+.a{
+    background-color: greenyellow;
+
+}
+#id{
+    background-color: rgb(169, 169, 247);
+}
+.b{
+    background-color: rgb(193, 236, 229);
+}
